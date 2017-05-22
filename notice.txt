@@ -1,0 +1,6 @@
+Important Tutorial: 
+	1. Part 11 - "Create" function and Forms in Laravel [How to Build a Blog with Laravel 5 Series]
+
+
+Work Progress:
+	FAQ complete 
